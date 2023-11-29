@@ -7,3 +7,4 @@ Resources:
 4. Spring MVC Flow Diagram: https://tutorialspedia.com/wp-content/uploads/2019/09/Spring-MVC-Flow-Diagram.png
 5. Exception Handling: https://www.baeldung.com/exception-handling-for-rest-with-spring
 6. Protobufs: https://protobuf.dev/
+7. Database, JPA: https://media.licdn.com/dms/image/C4E12AQFPgq3VRNjVsA/article-cover_image-shrink_720_1280/0/1639975062782?e=2147483647&v=beta&t=eVqnsS-Y4P0FYvYalkXDcOTzIfl_TBBsEtikqJlKhX4
